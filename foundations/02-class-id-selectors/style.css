@@ -1,0 +1,27 @@
+
+.font-verdana {
+    font-family:Verdana, DejaVu Sans, sans-serif;
+    background-color:lightpink;
+}
+
+#id1 {
+    color:blue;
+}
+
+#id2 {
+    background-color:lightgreen;
+}
+
+.boldtxt {
+    font-weight:bold;
+}
+
+.pt24 {
+    font-size:24px;
+}
+.pt36 {
+    font-size:36px;
+}
+.lgreen{
+    background-color:lightgreen;
+}
